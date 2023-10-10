@@ -2,6 +2,10 @@
 
 ## Series
 
+### Heiko Hotz
+
+- [RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application?](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7)
+
 ### Kelvin Lu
 
 - [Compare PDF Question Answering Systems Build with OpenAI and Google VertexAI](https://medium.com/@kelvin.lu.au/compare-pdf-question-answering-with-openai-and-google-vertexai-46638d62327b)
@@ -12,6 +16,7 @@
 
 #### Building
 
+- [Building Production-Ready LLM Apps with LlamaIndex: Document Metadata for Higher Accuracy Retrieval](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-document-metadata-for-higher-accuracy-retrieval-a8ceca641fb5)
 - [Building Production-Ready LLM Apps With LlamaIndex: Recursive Document Agents for Dynamic Retrieval](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-recursive-document-agents-for-dynamic-retrieval-1f4b25287918)
 
 
