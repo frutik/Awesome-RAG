@@ -4,7 +4,7 @@
 
 ### Kelvin Lu
 
-- [Compare PDF Question Answering Systems Build with OpenAI and Google VertexAI](https://medium.com/@kelvin.lu.au/compare-pdf-question-answering-with-openai-and-google-vertexai-46638d62327b}
+- [Compare PDF Question Answering Systems Build with OpenAI and Google VertexAI](https://medium.com/@kelvin.lu.au/compare-pdf-question-answering-with-openai-and-google-vertexai-46638d62327b)
 - [What We Need to Know Before Adopting a Vector Database](https://medium.com/@kelvin.lu.au/what-we-need-to-know-before-adopting-a-vector-database-85e137570fbb)
 - [Disadvantages of RAG](https://medium.com/@kelvin.lu.au/disadvantages-of-rag-5024692f2c53)
 
