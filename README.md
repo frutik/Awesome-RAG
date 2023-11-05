@@ -34,3 +34,10 @@
 #### Evaluation
 
 - [Evaluating the Ideal Chunk Size for a RAG System using LlamaIndex](https://blog.llamaindex.ai/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5)
+
+
+## Topics
+
+### Various
+
+- [Vector Search Is Not All You Need](https://towardsdatascience.com/vector-search-is-not-all-you-need-ecd0f16ad65e)
