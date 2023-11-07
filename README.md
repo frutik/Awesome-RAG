@@ -41,3 +41,4 @@
 ### Various
 
 - [Vector Search Is Not All You Need](https://towardsdatascience.com/vector-search-is-not-all-you-need-ecd0f16ad65e)
+- [Measuring Hallucinations in RAG Systems](https://vectara.com/measuring-hallucinations-in-rag-systems/)
