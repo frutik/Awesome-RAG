@@ -42,3 +42,4 @@
 
 - [Vector Search Is Not All You Need](https://towardsdatascience.com/vector-search-is-not-all-you-need-ecd0f16ad65e)
 - [Measuring Hallucinations in RAG Systems](https://vectara.com/measuring-hallucinations-in-rag-systems/)
+- [Improve RAG Pipelines With These 3 Indexing Methods](https://levelup.gitconnected.com/improve-rag-pipelines-with-these-3-indexing-methods-83317e972676)
