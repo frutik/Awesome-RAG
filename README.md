@@ -45,6 +45,9 @@
 - [Improve RAG Pipelines With These 3 Indexing Methods](https://levelup.gitconnected.com/improve-rag-pipelines-with-these-3-indexing-methods-83317e972676)
 
 
+#### Multi-Modal RAG
+
+
 #### Multi-index RAG
 
 - [Having all of your data stored in one collection isn't always the best for RAG apps](https://twitter.com/ecardenas300/status/1724829560041038072)
