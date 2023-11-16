@@ -48,3 +48,7 @@
 #### Multi-index RAG
 
 - [Having all of your data stored in one collection isn't always the best for RAG apps](https://twitter.com/ecardenas300/status/1724829560041038072)
+
+#### Long context RAG
+
+- [The next generation of RAG: Long-Context RAG](https://twitter.com/ecardenas300/status/1724129722492142048)
