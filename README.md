@@ -47,6 +47,8 @@
 
 #### Multi-Modal RAG
 
+- [Multi-Modal RAG](https://blog.llamaindex.ai/multi-modal-rag-621de7525fea)
+
 
 #### Multi-index RAG
 
