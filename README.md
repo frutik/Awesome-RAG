@@ -11,6 +11,7 @@
     - [Finetuning and Pretraining](#finetuning-and-retraining)
   - [Retrieval](#retrieval)
     - [Chunking](#chunking)
+    - [Search]()
   - [Prompts](#prompts)
     - [Context](#context)
       - [Long context RAG](#long-context-rag)
@@ -74,6 +75,9 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 - [Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/)
 - [Evaluating the Ideal Chunk Size for a RAG System using LlamaIndex](https://blog.llamaindex.ai/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5)
 
+#### Search
+
+- [Awesome Search](https://github.com/frutik/awesome-search)
 
 ### Prompts
 
