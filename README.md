@@ -114,6 +114,7 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 - [Measuring Hallucinations in RAG Systems](https://vectara.com/measuring-hallucinations-in-rag-systems/)
 - [RAG Evaluation](https://cobusgreyling.medium.com/rag-evaluation-9813a931b3d4)
+- [Evaluating RAG: A journey through metrics](https://www.elastic.co/search-labs/blog/articles/evaluating-rag-metrics)
 
 
 ### Performance and cost
