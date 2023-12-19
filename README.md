@@ -2,9 +2,11 @@
 
 - [Topics](#topics)
   - [General](#general)
-  - [Multi-Modal RAG](#multi-modal-rag)
-  - [Multi-index RAG](#multi-index-rag)
-  - [FLARE](#flare)
+    - [Multi-Modal RAG](#multi-modal-rag)
+    - [Multi-index RAG](#multi-index-rag)
+    - [Multi-Document](#multi-document)
+    - [FLARE](#flare)
+    - [Patterns](#patterns)
   - [LLM Models](#llm-models)
     - [Finetuning and Pretraining](#finetuning-and-retraining)
   - [Retrieval](#retrieval)
@@ -16,7 +18,6 @@
   - [Evaluation](#evaluation)
   - [Performance and cost](#performance-and-cost)
   - [Privacy](#privacy)
-  - [Patterns](#patterns)
 - [Series](#series)
 - [Sandbox](#sandbox)
 
@@ -26,21 +27,31 @@
 
 - [Retrieval Augmented Generation — Intuitively and Exhaustively Explained](https://towardsdatascience.com/retrieval-augmented-generation-intuitively-and-exhaustively-explain-6a39d6fe6fc9)
 
-### Multi-Modal RAG
+#### Multi-Modal RAG
 
 - [Multi-Modal RAG](https://blog.llamaindex.ai/multi-modal-rag-621de7525fea)
 
-### Multi-index RAG
+#### Multi-index RAG
 
 - [Having all of your data stored in one collection isn't always the best for RAG apps](https://twitter.com/ecardenas300/status/1724829560041038072)
 
-### Multi-Document
+#### Multi-Document
 
 - [Advanced RAG — Multi-Documents Agent with LlamaIndex](https://blog.gopenai.com/advanced-rag-multi-documents-agent-with-llamaindex-43b604f84909)
 
-### FLARE
+#### FLARE
 
 - [Better RAG with Active Retrieval Augmented Generation FLARE](https://blog.lancedb.com/better-rag-with-active-retrieval-augmented-generation-flare-3b66646e2a9f)
+
+#### Patterns
+
+- [Generative AI Lifecycle Patterns](https://dr-arsanjani.medium.com/the-generative-ai-lifecycle-1b0c7d9463ec)
+- [Why do RAG pipelines fail? Advanced RAG Patterns — Part1
+Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patterns-part1-841faad8b3c2)
+- [How to improve RAG peformance — Advanced RAG Patterns — Part2](https://cloudatlas.me/how-to-improve-rag-peformance-advanced-rag-patterns-part2-0c84e2df66e6)
+- [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
+- [AI Engineer Summit - Building Blocks for LLM Systems & Products](https://eugeneyan.com/speaking/ai-eng-summit/)
+- [Technical Considerations for Complex RAG](https://medium.com/enterprise-rag/a-first-intro-to-complex-rag-retrieval-augmented-generation-a8624d70090f)
 
 ### LLM Models
 
@@ -96,16 +107,6 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 ### Performance and cost
 
 - [Secrets to Optimizing RAG LLM Apps for Better Performance, Accuracy and Lower Costs!](https://medium.com/madhukarkumar/secrets-to-optimizing-rag-llm-apps-for-better-accuracy-performance-and-lower-cost-da1014127c0a)
-
-### Patterns
-
-- [Generative AI Lifecycle Patterns](https://dr-arsanjani.medium.com/the-generative-ai-lifecycle-1b0c7d9463ec)
-- [Why do RAG pipelines fail? Advanced RAG Patterns — Part1
-Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patterns-part1-841faad8b3c2)
-- [How to improve RAG peformance — Advanced RAG Patterns — Part2](https://cloudatlas.me/how-to-improve-rag-peformance-advanced-rag-patterns-part2-0c84e2df66e6)
-- [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
-- [AI Engineer Summit - Building Blocks for LLM Systems & Products](https://eugeneyan.com/speaking/ai-eng-summit/)
-- [Technical Considerations for Complex RAG](https://medium.com/enterprise-rag/a-first-intro-to-complex-rag-retrieval-augmented-generation-a8624d70090f)
 
 ### Various
 
