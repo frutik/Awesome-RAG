@@ -21,6 +21,12 @@
   - [Privacy](#privacy)
 - [Series](#series)
 - [Sandbox](#sandbox)
+- [Tools](#tools)
+- [Vendor-specific examples](#vendor-specific-examples)
+  - [Elastcisearch + OpenAI](#elastcisearch-openai)
+  - Vespa
+  - Qdrant
+
 
 ## Topics
 
@@ -155,19 +161,28 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 - [Evaluating the Ideal Chunk Size for a RAG System using LlamaIndex](https://blog.llamaindex.ai/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5)
 
+## Tools
+
+- [Langchain is NOT for production use. Here is why ..](https://medium.com/@aldendorosario/langchain-is-not-for-production-use-here-is-why-9f1eca6cce80)
+- [Three Open-Source RAG Tools You Need to Know About](https://medium.com/programmers-journey/three-open-source-rag-tools-you-need-to-know-about-331c3f28ab22)
+
+
+- LlamaIndex
+- Langchain
+
+##Vendor-specific examples
+
+- [RAG Pipeline with Mistral 7B Instruct Model in Colab: A Step-by-Step Guide
+Qendel AI GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruct-model-a-step-by-step-guide-138df378a0c2)
+- [Hands-On RAG guide for personal data with Vespa and LLamaIndex](https://blog.vespa.ai/scaling-personal-ai-assistants-with-streaming-mode/)
 
 ## Sandbox
 
 - [Innovations In Retrieval Augmented Generation](https://medium.com/emalpha/innovations-in-retrieval-augmented-generation-8e6e70f95629)  
-- [Three Open-Source RAG Tools You Need to Know About](https://medium.com/programmers-journey/three-open-source-rag-tools-you-need-to-know-about-331c3f28ab22)
 - [Automating Hyperparameter Tuning with LlamaIndex. Exploring ParamTuner for RAG pipelines](https://levelup.gitconnected.com/automating-hyperparameter-tuning-with-llamaindex-72fdd68e3b90)
 - [A Guide on 12 Tuning Strategies for Production-Ready RAG Applications](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439)
 - [Structured Knowledge Extraction: from DbPedia Queries to Llama Index Knowledge Graphs](https://python.plainenglish.io/structured-knowledge-extraction-from-dbpedia-queries-to-llama-index-knowledge-graphs-47899c38e767)
-- [Hands-On RAG guide for personal data with Vespa and LLamaIndex](https://blog.vespa.ai/scaling-personal-ai-assistants-with-streaming-mode/)
-- [Langchain is NOT for production use. Here is why ..](https://medium.com/@aldendorosario/langchain-is-not-for-production-use-here-is-why-9f1eca6cce80)
 - [The Power of Retrieval Augmented Generation: A Comparison between Base and RAG LLMs with Llama2](https://towardsdatascience.com/the-power-of-retrieval-augmented-generation-a-comparison-between-base-and-rag-llms-with-llama2-368865762c0d)
 - [How to Build Long-term Corporate Memory for Your Organisation Using ChatGPT](https://ai.plainenglish.io/how-to-build-long-term-corproate-memory-for-your-organisation-using-chatgpt-d213804d4176)
-- [RAG Pipeline with Mistral 7B Instruct Model in Colab: A Step-by-Step Guide
-Qendel AI
-GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruct-model-a-step-by-step-guide-138df378a0c2)
+
 
