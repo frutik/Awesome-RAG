@@ -100,6 +100,8 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 - [The Practical Benefits to Grounding an LLM in a Knowledge Graph
 Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-grounding-an-llm-in-a-knowledge-graph-919918eb493)
 - [Implement RAG with Knowledge Graph and Llama-Index](https://medium.aiplanet.com/implement-rag-with-knowledge-graph-and-llama-index-6a3370e93cdd)
+
+- [Awesome Knowledge Graphs](https://github.com/frutik/awesome-knowledge-graphs)
   
 
 ### Evaluation
