@@ -11,7 +11,7 @@
     - [Finetuning and Pretraining](#finetuning-and-retraining)
   - [Retrieval](#retrieval)
     - [Chunking](#chunking)
-    - [Search]()
+    - [Search](#search)
   - [Prompts](#prompts)
     - [Context](#context)
       - [Long context RAG](#long-context-rag)
