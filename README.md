@@ -89,7 +89,7 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 - [NVIDIA Research: RAG with Long Context LLMs](https://blog.llamaindex.ai/nvidia-research-rag-with-long-context-llms-7d94d40090c4)
 
 
-##### Knowledge Graphs
+##### Knowledge and Knowledge Graphs
 
 - [Graph RAG: Unleashing the Power of Knowledge Graphs with LLM](https://medium.com/@nebulagraph/graph-rag-the-new-llm-stack-with-knowledge-graphs-e1e902c504ed)
 - [Embeddings + Knowledge Graphs: The Ultimate Tools for RAG Systems](https://towardsdatascience.com/embeddings-knowledge-graphs-the-ultimate-tools-for-rag-systems-cbbcca29f0fd)
