@@ -1,23 +1,23 @@
 # Awesome-RAG
 
-- Topics
-  - General 
-  - Multi-Modal RAG
-  - Multi-index RAG
-  - FLARE
-  - Long context RAG
-  - Models
-    - Finetuning
-  - Chunking
-  - Retrieval
-  - Knowledge and Knowledge Graphs
-  - Patterns
-  - Prompts
-  - Evaluation
-  - Performance and cost
-  - Privacy
-- Series
-- Sandbox
+- [Topics](#)
+  - [General](#)
+  - [Multi-Modal RAG](#)
+  - [Multi-index RAG](#)
+  - [FLARE](#)
+  - [Long context RAG](#)
+  - [Models](#)
+    - [Finetuning](#)
+  - [Chunking](#)
+  - [Retrieval](#)
+  - [Knowledge and Knowledge Graphs](#)
+  - [Patterns](#)
+  - [Prompts](#)
+  - [Evaluation](#)
+  - [Performance and cost](#)
+  - [Privacy](#)
+- [Series](#)
+- [Sandbox](#)
 
 ## Topics
 
