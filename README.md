@@ -71,4 +71,15 @@
 - [Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/)
 - [Three Open-Source RAG Tools You Need to Know About](https://medium.com/programmers-journey/three-open-source-rag-tools-you-need-to-know-about-331c3f28ab22)
 - [Automating Hyperparameter Tuning with LlamaIndex. Exploring ParamTuner for RAG pipelines](https://levelup.gitconnected.com/automating-hyperparameter-tuning-with-llamaindex-72fdd68e3b90)
-- 
+- [Technical Considerations for Complex RAG](https://medium.com/enterprise-rag/a-first-intro-to-complex-rag-retrieval-augmented-generation-a8624d70090f)
+- [The Practical Benefits to Grounding an LLM in a Knowledge Graph
+Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-grounding-an-llm-in-a-knowledge-graph-919918eb493)
+- [From Search to Synthesis: Enhancing RAG with BM25 and Reciprocal Rank Fusion](https://medium.com/@kachari.bikram42/from-search-to-synthesis-enhancing-rag-with-bm25-and-reciprocal-rank-fusion-872d21dc4ca7)
+- [A Guide on 12 Tuning Strategies for Production-Ready RAG Applications](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439)
+- [Combine Multiple LoRA Adapters for Llama 2](https://towardsdatascience.com/combine-multiple-lora-adapters-for-llama-2-ea0bef9025cf)
+- [Structured Knowledge Extraction: from DbPedia Queries to Llama Index Knowledge Graphs](https://python.plainenglish.io/structured-knowledge-extraction-from-dbpedia-queries-to-llama-index-knowledge-graphs-47899c38e767)
+- []()
+- []()
+- []()
+- []()
+- []()
