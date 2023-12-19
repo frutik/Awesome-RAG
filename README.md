@@ -61,3 +61,14 @@
 #### Long context RAG
 
 - [The next generation of RAG: Long-Context RAG](https://twitter.com/ecardenas300/status/1724129722492142048)
+
+
+## Sandbox
+
+- [Innovations In Retrieval Augmented Generation](https://medium.com/emalpha/innovations-in-retrieval-augmented-generation-8e6e70f95629)
+- [Implement RAG with Knowledge Graph and Llama-Index](https://medium.aiplanet.com/implement-rag-with-knowledge-graph-and-llama-index-6a3370e93cdd)
+- [Advanced RAG — Multi-Documents Agent with LlamaIndex](https://blog.gopenai.com/advanced-rag-multi-documents-agent-with-llamaindex-43b604f84909)
+- [Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/)
+- [Three Open-Source RAG Tools You Need to Know About](https://medium.com/programmers-journey/three-open-source-rag-tools-you-need-to-know-about-331c3f28ab22)
+- [Automating Hyperparameter Tuning with LlamaIndex. Exploring ParamTuner for RAG pipelines](https://levelup.gitconnected.com/automating-hyperparameter-tuning-with-llamaindex-72fdd68e3b90)
+- 
