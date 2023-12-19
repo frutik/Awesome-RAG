@@ -18,6 +18,48 @@
 - Series
 - Sandbox
 
+## Topics
+
+### Multi-Modal RAG
+
+- [Multi-Modal RAG](https://blog.llamaindex.ai/multi-modal-rag-621de7525fea)
+
+### Multi-index RAG
+
+- [Having all of your data stored in one collection isn't always the best for RAG apps](https://twitter.com/ecardenas300/status/1724829560041038072)
+
+### FLARE
+
+- [Better RAG with Active Retrieval Augmented Generation FLARE](https://blog.lancedb.com/better-rag-with-active-retrieval-augmented-generation-flare-3b66646e2a9f)
+
+### Long context RAG
+
+- [The next generation of RAG: Long-Context RAG](https://twitter.com/ecardenas300/status/1724129722492142048)
+
+### Models
+
+#### Finetuning
+
+### Chunking
+
+### Retrieval
+
+### Knowledge Graphs
+
+### Patterns
+
+### Prompts
+
+### Evaluation
+
+### Performance and cost
+
+### Various
+
+- [Vector Search Is Not All You Need](https://towardsdatascience.com/vector-search-is-not-all-you-need-ecd0f16ad65e)
+- [Measuring Hallucinations in RAG Systems](https://vectara.com/measuring-hallucinations-in-rag-systems/)
+- [Improve RAG Pipelines With These 3 Indexing Methods](https://levelup.gitconnected.com/improve-rag-pipelines-with-these-3-indexing-methods-83317e972676)
+
 
 ## Series
 
@@ -53,51 +95,6 @@
 #### Evaluation
 
 - [Evaluating the Ideal Chunk Size for a RAG System using LlamaIndex](https://blog.llamaindex.ai/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5)
-
-
-## Topics
-
-### Various
-
-- [Vector Search Is Not All You Need](https://towardsdatascience.com/vector-search-is-not-all-you-need-ecd0f16ad65e)
-- [Measuring Hallucinations in RAG Systems](https://vectara.com/measuring-hallucinations-in-rag-systems/)
-- [Improve RAG Pipelines With These 3 Indexing Methods](https://levelup.gitconnected.com/improve-rag-pipelines-with-these-3-indexing-methods-83317e972676)
-
-
-#### Multi-Modal RAG
-
-- [Multi-Modal RAG](https://blog.llamaindex.ai/multi-modal-rag-621de7525fea)
-
-
-#### Multi-index RAG
-
-- [Having all of your data stored in one collection isn't always the best for RAG apps](https://twitter.com/ecardenas300/status/1724829560041038072)
-
-#### FLARE
-
-- [Better RAG with Active Retrieval Augmented Generation FLARE](https://blog.lancedb.com/better-rag-with-active-retrieval-augmented-generation-flare-3b66646e2a9f)
-
-#### Long context RAG
-
-- [The next generation of RAG: Long-Context RAG](https://twitter.com/ecardenas300/status/1724129722492142048)
-
-#### Models
-
-##### Finetuning
-
-#### Chunking
-
-#### Retrieval
-
-#### Knowledge Graphs
-
-#### Patterns
-
-#### Prompts
-
-#### Evaluation
-
-#### Performance and cost
 
 
 ## Sandbox
