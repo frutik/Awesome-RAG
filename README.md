@@ -1,5 +1,25 @@
 # Awesome-RAG
 
+#### Privacy
+## Topics
+### Various
+#### Multi-Modal RAG
+#### Multi-index RAG
+#### FLARE
+#### Long context RAG
+#### Models
+##### Finetuning
+#### Chunking
+#### Retrieval
+#### Knowledge Graphs
+#### Patterns
+#### Prompts
+#### Evaluation
+#### Performance and cost
+## Series
+## Sandbox
+
+
 ## Series
 
 ### Heiko Hotz
@@ -61,6 +81,24 @@
 #### Long context RAG
 
 - [The next generation of RAG: Long-Context RAG](https://twitter.com/ecardenas300/status/1724129722492142048)
+
+#### Models
+
+##### Finetuning
+
+#### Chunking
+
+#### Retrieval
+
+#### Knowledge Graphs
+
+#### Patterns
+
+#### Prompts
+
+#### Evaluation
+
+#### Performance and cost
 
 
 ## Sandbox
