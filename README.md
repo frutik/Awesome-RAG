@@ -10,9 +10,10 @@
     - [Finetuning and Pretraining](#finetuning-and-retraining)
   - [Chunking](#chunking)
   - [Retrieval](#retrieval)
-  - [Knowledge and Knowledge Graphs](#knowledge-and-knowledge-graphs)
   - [Patterns](#patterns)
   - [Prompts](#prompts)
+    - [Context](#context)
+      - [Knowledge and Knowledge Graphs](#knowledge-and-knowledge-graphs)
   - [Evaluation](#evaluation)
   - [Performance and cost](#performance-and-cost)
   - [Privacy](#privacy)
@@ -68,14 +69,6 @@
 - [From Search to Synthesis: Enhancing RAG with BM25 and Reciprocal Rank Fusion](https://medium.com/@kachari.bikram42/from-search-to-synthesis-enhancing-rag-with-bm25-and-reciprocal-rank-fusion-872d21dc4ca7)
   
 
-### Knowledge Graphs
-
-- [Graph RAG: Unleashing the Power of Knowledge Graphs with LLM](https://medium.com/@nebulagraph/graph-rag-the-new-llm-stack-with-knowledge-graphs-e1e902c504ed)
-- [Embeddings + Knowledge Graphs: The Ultimate Tools for RAG Systems](https://towardsdatascience.com/embeddings-knowledge-graphs-the-ultimate-tools-for-rag-systems-cbbcca29f0fd)
-- [The Practical Benefits to Grounding an LLM in a Knowledge Graph
-Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-grounding-an-llm-in-a-knowledge-graph-919918eb493)
-- [Implement RAG with Knowledge Graph and Llama-Index](https://medium.aiplanet.com/implement-rag-with-knowledge-graph-and-llama-index-6a3370e93cdd)
-  
 ### Patterns
 
 - [Generative AI Lifecycle Patterns](https://dr-arsanjani.medium.com/the-generative-ai-lifecycle-1b0c7d9463ec)
@@ -86,11 +79,22 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 - [AI Engineer Summit - Building Blocks for LLM Systems & Products](https://eugeneyan.com/speaking/ai-eng-summit/)
 - [Technical Considerations for Complex RAG](https://medium.com/enterprise-rag/a-first-intro-to-complex-rag-retrieval-augmented-generation-a8624d70090f)
 
-
-
 ### Prompts
 
 - [Emerging RAG & Prompt Engineering Architectures for LLMs](https://cobusgreyling.medium.com/updated-emerging-rag-prompt-engineering-architectures-for-llms-17ee62e5cbd9)
+
+#### Context
+
+- [Conversational Memory for LLMs with Langchain](https://www.pinecone.io/learn/series/langchain/langchain-conversational-memory/)
+
+##### Knowledge Graphs
+
+- [Graph RAG: Unleashing the Power of Knowledge Graphs with LLM](https://medium.com/@nebulagraph/graph-rag-the-new-llm-stack-with-knowledge-graphs-e1e902c504ed)
+- [Embeddings + Knowledge Graphs: The Ultimate Tools for RAG Systems](https://towardsdatascience.com/embeddings-knowledge-graphs-the-ultimate-tools-for-rag-systems-cbbcca29f0fd)
+- [The Practical Benefits to Grounding an LLM in a Knowledge Graph
+Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-grounding-an-llm-in-a-knowledge-graph-919918eb493)
+- [Implement RAG with Knowledge Graph and Llama-Index](https://medium.aiplanet.com/implement-rag-with-knowledge-graph-and-llama-index-6a3370e93cdd)
+  
 
 ### Evaluation
 
@@ -154,7 +158,6 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 - [Hands-On RAG guide for personal data with Vespa and LLamaIndex](https://blog.vespa.ai/scaling-personal-ai-assistants-with-streaming-mode/)
 - [Langchain is NOT for production use. Here is why ..](https://medium.com/@aldendorosario/langchain-is-not-for-production-use-here-is-why-9f1eca6cce80)
 - [The Power of Retrieval Augmented Generation: A Comparison between Base and RAG LLMs with Llama2](https://towardsdatascience.com/the-power-of-retrieval-augmented-generation-a-comparison-between-base-and-rag-llms-with-llama2-368865762c0d)
-- [Conversational Memory for LLMs with Langchain](https://www.pinecone.io/learn/series/langchain/langchain-conversational-memory/)
 - [How to Build Long-term Corporate Memory for Your Organisation Using ChatGPT](https://ai.plainenglish.io/how-to-build-long-term-corproate-memory-for-your-organisation-using-chatgpt-d213804d4176)
 - [RAG Pipeline with Mistral 7B Instruct Model in Colab: A Step-by-Step Guide
 Qendel AI
