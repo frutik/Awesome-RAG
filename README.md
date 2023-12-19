@@ -1,6 +1,7 @@
 # Awesome-RAG
 
 - Topics
+  - General 
   - Multi-Modal RAG
   - Multi-index RAG
   - FLARE
@@ -19,6 +20,8 @@
 - Sandbox
 
 ## Topics
+
+### General
 
 - [Retrieval Augmented Generation — Intuitively and Exhaustively Explained](https://towardsdatascience.com/retrieval-augmented-generation-intuitively-and-exhaustively-explain-6a39d6fe6fc9)
 
