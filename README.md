@@ -5,7 +5,6 @@
   - [Multi-Modal RAG](#multi-modal-rag)
   - [Multi-index RAG](#multi-index-rag)
   - [FLARE](#flare)
-  - [Long context RAG](#long-context-rag)
   - [Models](#models)
     - [Finetuning and Pretraining](#finetuning-and-retraining)
   - [Chunking](#chunking)
@@ -13,6 +12,7 @@
   - [Patterns](#patterns)
   - [Prompts](#prompts)
     - [Context](#context)
+      - [Long context RAG](#long-context-rag)
       - [Knowledge and Knowledge Graphs](#knowledge-and-knowledge-graphs)
   - [Evaluation](#evaluation)
   - [Performance and cost](#performance-and-cost)
@@ -41,11 +41,6 @@
 ### FLARE
 
 - [Better RAG with Active Retrieval Augmented Generation FLARE](https://blog.lancedb.com/better-rag-with-active-retrieval-augmented-generation-flare-3b66646e2a9f)
-
-### Long context RAG
-
-- [The next generation of RAG: Long-Context RAG](https://twitter.com/ecardenas300/status/1724129722492142048)
-- [NVIDIA Research: RAG with Long Context LLMs](https://blog.llamaindex.ai/nvidia-research-rag-with-long-context-llms-7d94d40090c4)
 
 ### Models
 
@@ -86,6 +81,12 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 #### Context
 
 - [Conversational Memory for LLMs with Langchain](https://www.pinecone.io/learn/series/langchain/langchain-conversational-memory/)
+
+##### Long context RAG
+
+- [The next generation of RAG: Long-Context RAG](https://twitter.com/ecardenas300/status/1724129722492142048)
+- [NVIDIA Research: RAG with Long Context LLMs](https://blog.llamaindex.ai/nvidia-research-rag-with-long-context-llms-7d94d40090c4)
+
 
 ##### Knowledge Graphs
 
