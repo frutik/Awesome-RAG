@@ -5,7 +5,7 @@
   - [Multi-Modal RAG](#multi-modal-rag)
   - [Multi-index RAG](#multi-index-rag)
   - [FLARE](#flare)
-  - [Models](#models)
+  - [LLM Models](#llm-models)
     - [Finetuning and Pretraining](#finetuning-and-retraining)
   - [Retrieval](#retrieval)
     - [Chunking](#chunking)
@@ -42,7 +42,7 @@
 
 - [Better RAG with Active Retrieval Augmented Generation FLARE](https://blog.lancedb.com/better-rag-with-active-retrieval-augmented-generation-flare-3b66646e2a9f)
 
-### Models
+### LLM Models
 
 #### Finetuning and Pretraining
 
