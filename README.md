@@ -16,6 +16,7 @@
     - [Context](#context)
       - [Long context RAG](#long-context-rag)
       - [Knowledge and Knowledge Graphs](#knowledge-and-knowledge-graphs)
+  - [Hallucination](#hallucination)
   - [Evaluation](#evaluation)
   - [Performance and cost](#performance-and-cost)
   - [Privacy](#privacy)
