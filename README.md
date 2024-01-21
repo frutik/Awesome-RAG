@@ -18,7 +18,7 @@
       - [Knowledge and Knowledge Graphs](#knowledge-and-knowledge-graphs)
   - [Generation](#generation)
     - [Hallucination](#hallucination)
-    - [Guardrails](guardrails)
+    - [Guardrails](#guardrails)
   - [Evaluation](#evaluation)
   - [Performance and cost](#performance-and-cost)
   - [Privacy](#privacy)
