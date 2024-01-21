@@ -16,7 +16,9 @@
     - [Context](#context)
       - [Long context RAG](#long-context-rag)
       - [Knowledge and Knowledge Graphs](#knowledge-and-knowledge-graphs)
-  - [Hallucination](#hallucination)
+  - [Generation](#generation)
+    - [Hallucination](#hallucination)
+    - [Guardrails](guardrails)
   - [Evaluation](#evaluation)
   - [Performance and cost](#performance-and-cost)
   - [Privacy](#privacy)
@@ -115,11 +117,17 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 - [Awesome Knowledge Graphs](https://github.com/frutik/awesome-knowledge-graphs)
   
+## Generation
+
 ### Hallucination
 
 - [How to Detect Hallucinations in LLMs](https://towardsdatascience.com/real-time-llm-hallucination-detection-9a68bb292698)
 - [Measuring Hallucinations in RAG Systems](https://vectara.com/measuring-hallucinations-in-rag-systems/)
 
+### Guardrails
+
+- [Safeguarding LLMs with Guardrails](https://towardsdatascience.com/safeguarding-llms-with-guardrails-4f5d9f57cff2)
+- [NeMo Guardrails: The Missing Manual](https://www.pinecone.io/learn/nemo-guardrails-intro/)
 
 ### Evaluation
 
