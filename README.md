@@ -2,10 +2,6 @@
 
 - [Topics](#topics)
   - [General](#general)
-    - [Multi-Modal RAG](#multi-modal-rag)
-    - [Multi-index RAG](#multi-index-rag)
-    - [Multi-Document](#multi-document)
-    - [FLARE](#flare)
     - [Patterns](#patterns)
   - [LLM Models](#llm-models)
     - [Finetuning and Pretraining](#finetuning-and-retraining)
@@ -14,6 +10,10 @@
     - [Search](#search)
   - [Prompts](#prompts)
     - [Prompting strategies](#prompting-strategies)
+      - [Multi-Modal RAG](#multi-modal-rag)
+      - [Multi-index RAG](#multi-index-rag)
+      - [Multi-Document](#multi-document)
+      - [FLARE](#flare)
       - [Chain-of-Verification](#chain-of-verification)
     - [Context](#context)
       - [Long context RAG](#long-context-rag)
@@ -40,22 +40,6 @@
 ### General
 
 - [Retrieval Augmented Generation — Intuitively and Exhaustively Explained](https://towardsdatascience.com/retrieval-augmented-generation-intuitively-and-exhaustively-explain-6a39d6fe6fc9)
-
-#### Multi-Modal RAG
-
-- [Multi-Modal RAG](https://blog.llamaindex.ai/multi-modal-rag-621de7525fea)
-
-#### Multi-index RAG
-
-- [Having all of your data stored in one collection isn't always the best for RAG apps](https://twitter.com/ecardenas300/status/1724829560041038072)
-
-#### Multi-Document
-
-- [Advanced RAG — Multi-Documents Agent with LlamaIndex](https://blog.gopenai.com/advanced-rag-multi-documents-agent-with-llamaindex-43b604f84909)
-
-#### FLARE
-
-- [Better RAG with Active Retrieval Augmented Generation FLARE](https://blog.lancedb.com/better-rag-with-active-retrieval-augmented-generation-flare-3b66646e2a9f)
 
 #### Patterns
 
@@ -100,6 +84,23 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 - [How to Cut RAG Costs by 80% Using Prompt Compression](https://towardsdatascience.com/how-to-cut-rag-costs-by-80-using-prompt-compression-877a07c6bedb)
 
 #### Prompting strategies
+
+#### Multi-Modal RAG
+
+- [Multi-Modal RAG](https://blog.llamaindex.ai/multi-modal-rag-621de7525fea)
+
+#### Multi-index RAG
+
+- [Having all of your data stored in one collection isn't always the best for RAG apps](https://twitter.com/ecardenas300/status/1724829560041038072)
+
+#### Multi-Document
+
+- [Advanced RAG — Multi-Documents Agent with LlamaIndex](https://blog.gopenai.com/advanced-rag-multi-documents-agent-with-llamaindex-43b604f84909)
+
+#### FLARE
+
+- [Better RAG with Active Retrieval Augmented Generation FLARE](https://blog.lancedb.com/better-rag-with-active-retrieval-augmented-generation-flare-3b66646e2a9f)
+
 
 ##### Chain-of-Verification
 
