@@ -105,6 +105,10 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 
 - [in-Of-Verification Reduces Hallucination in LLMs](https://cobusgreyling.medium.com/chain-of-verification-reduces-hallucination-in-llms-20af5ea67672)
 
+##### Chain-Of-Thought
+
+- [Chain-Of-Thought Prompting In LLMs](https://cobusgreyling.medium.com/chain-of-thought-prompting-in-llms-1077164edf97)
+
 #### Context
 
 - [The Needle In a Haystack Test](https://towardsdatascience.com/the-needle-in-a-haystack-test-a94974c1ad38)
