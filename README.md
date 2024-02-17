@@ -13,6 +13,8 @@
     - [Chunking](#chunking)
     - [Search](#search)
   - [Prompts](#prompts)
+    - [Prompting strategies](#prompting-strategies)
+      - [Chain-of-Verification](#chain-of-verification)
     - [Context](#context)
       - [Long context RAG](#long-context-rag)
       - [Knowledge and Knowledge Graphs](#knowledge-and-knowledge-graphs)
@@ -96,6 +98,12 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 
 - [Emerging RAG & Prompt Engineering Architectures for LLMs](https://cobusgreyling.medium.com/updated-emerging-rag-prompt-engineering-architectures-for-llms-17ee62e5cbd9)
 - [How to Cut RAG Costs by 80% Using Prompt Compression](https://towardsdatascience.com/how-to-cut-rag-costs-by-80-using-prompt-compression-877a07c6bedb)
+
+#### Prompting strategies
+
+##### Chain-of-Verification
+
+- [in-Of-Verification Reduces Hallucination in LLMs](https://cobusgreyling.medium.com/chain-of-verification-reduces-hallucination-in-llms-20af5ea67672)
 
 #### Context
 
