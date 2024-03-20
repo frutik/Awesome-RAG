@@ -77,6 +77,7 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 #### Search
 
 - [Awesome Search](https://github.com/frutik/awesome-search)
+- [Advanced RAG Retrieval Strategies: Sentence Window Retrieval](https://generativeai.pub/advanced-rag-retrieval-strategies-sentence-window-retrieval-b6964b6e56f7)
 
 ### Prompts
 
