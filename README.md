@@ -25,8 +25,9 @@
   - [Evaluation](#evaluation)
   - [Performance and cost](#performance-and-cost)
   - [Privacy](#privacy)
-  - Security
-    - Injections
+  - [Security](#secutity)
+    - [Overloading context](#overloading-context)
+    - [Injections](#security)
 - [Series](#series)
 - [Sandbox](#sandbox)
 - [Tools](#tools)
@@ -160,6 +161,9 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 - [Vector Search Is Not All You Need](https://towardsdatascience.com/vector-search-is-not-all-you-need-ecd0f16ad65e)
 - [Improve RAG Pipelines With These 3 Indexing Methods](https://levelup.gitconnected.com/improve-rag-pipelines-with-these-3-indexing-methods-83317e972676)
 
+## Security
+
+- [Hijacking Chatbots: Dangerous Methods Manipulating GPTs](https://medium.com/@jankammerath/hijacking-chatbots-dangerous-methods-manipulating-gpts-52342f4f88b8)
 
 ## Series
 
