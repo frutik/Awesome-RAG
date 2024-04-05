@@ -25,7 +25,7 @@
   - [Evaluation](#evaluation)
   - [Performance and cost](#performance-and-cost)
   - [Privacy](#privacy)
-  - [Security](#secutity)
+  - [Security](#security)
     - [Overloading context](#overloading-context)
     - [Injections](#security)
 - [Series](#series)
