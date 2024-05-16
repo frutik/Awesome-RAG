@@ -204,12 +204,10 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 - [Langchain is NOT for production use. Here is why ..](https://medium.com/@aldendorosario/langchain-is-not-for-production-use-here-is-why-9f1eca6cce80)
 - [Three Open-Source RAG Tools You Need to Know About](https://medium.com/programmers-journey/three-open-source-rag-tools-you-need-to-know-about-331c3f28ab22)
-
-
 - LlamaIndex
 - Langchain
 
-##Vendor-specific examples
+## Vendor-specific examples
 
 - [RAG Pipeline with Mistral 7B Instruct Model in Colab: A Step-by-Step Guide
 Qendel AI GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruct-model-a-step-by-step-guide-138df378a0c2)
@@ -223,5 +221,3 @@ Qendel AI GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruc
 - [Structured Knowledge Extraction: from DbPedia Queries to Llama Index Knowledge Graphs](https://python.plainenglish.io/structured-knowledge-extraction-from-dbpedia-queries-to-llama-index-knowledge-graphs-47899c38e767)
 - [The Power of Retrieval Augmented Generation: A Comparison between Base and RAG LLMs with Llama2](https://towardsdatascience.com/the-power-of-retrieval-augmented-generation-a-comparison-between-base-and-rag-llms-with-llama2-368865762c0d)
 - [How to Build Long-term Corporate Memory for Your Organisation Using ChatGPT](https://ai.plainenglish.io/how-to-build-long-term-corproate-memory-for-your-organisation-using-chatgpt-d213804d4176)
-
-
