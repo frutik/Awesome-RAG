@@ -209,8 +209,11 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 - [Langchain is NOT for production use. Here is why ..](https://medium.com/@aldendorosario/langchain-is-not-for-production-use-here-is-why-9f1eca6cce80)
 - [Three Open-Source RAG Tools You Need to Know About](https://medium.com/programmers-journey/three-open-source-rag-tools-you-need-to-know-about-331c3f28ab22)
-- LlamaIndex
-- Langchain
+- [LlamaIndex](https://github.com/run-llama/llama_index)
+- [Langchain](https://github.com/langchain-ai/langchain)
+- [HayStack](https://github.com/deepset-ai/haystack)
+- [RAGAS](https://github.com/explodinggradients/ragas)
+- [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoML tool for RAG. Automatically optimize RAG pipeline with single YAML file.
 
 ## Vendor-specific examples
 
