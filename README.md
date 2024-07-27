@@ -43,6 +43,7 @@
 ### General
 
 - [Retrieval Augmented Generation — Intuitively and Exhaustively Explained](https://towardsdatascience.com/retrieval-augmented-generation-intuitively-and-exhaustively-explain-6a39d6fe6fc9)
+- [GraphRAG - Microsoft Research Blog Post](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 
 #### Patterns
 
