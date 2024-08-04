@@ -2,39 +2,37 @@
 
 > The sections outline is in complete draft form. Everything is in motion (in this document and in my head).
 
-- [Topics](#topics)
-  - [General](#general)
-    - [Patterns](#patterns)
-  - [Dialogue Routing](#dialogue-routing)
-  - [LLM Models](#llm-models)
-    - [Finetuning and Pretraining](#finetuning-and-pretraining)
-  - [Retrieval](#retrieval)
-    -  [Vector retrieval](#vector-retrieval)
-       - [Chunking](#chunking)
-       - [Embeddings](#embeddings)
-       - [Vector Search](#vector-search)
-    - [Not Vector retrieval](#not-vector-retrieval)
-  - [Prompts](#prompts)
-    - [Prompting strategies](#prompting-strategies)
-      - [Multi-Modal RAG](#multi-modal-rag)
-      - [Multi-index RAG](#multi-index-rag)
-      - [Multi-Document](#multi-document)
-      - [FLARE](#flare)
-      - [Chain-of-Verification](#chain-of-verification) 
-    -  [Automated prompt optimization](#automated-prompt-optimization)
-    - [Context](#context)
-      - [Long context RAG](#long-context-rag)
-      - [Knowledge and Knowledge Graphs](#knowledge-and-knowledge-graphs)
-  - [Generation](#generation)
-    - [Hallucination](#hallucination)
-    - [Guardrails](#guardrails)
-  - [Evaluation](#evaluation)
-  - [Performance and cost](#performance-and-cost)
-  - [Privacy](#privacy)
-  - [Security](#security)
-    - [Overloading context](#overloading-context)
-    - [Injections](#security)
-- [Series](#series)
+- [General](#general)
+  - [Patterns](#patterns)
+- [Dialogue Routing](#dialogue-routing)
+- [LLM Models](#llm-models)
+  - [Finetuning and Pretraining](#finetuning-and-pretraining)
+- [Retrieval](#retrieval)
+  -  [Vector retrieval](#vector-retrieval)
+     - [Chunking](#chunking)
+     - [Embeddings](#embeddings)
+     - [Vector Search](#vector-search)
+  - [Not Vector retrieval](#not-vector-retrieval)
+- [Prompts](#prompts)
+  - [Prompting strategies](#prompting-strategies)
+    - [Multi-Modal RAG](#multi-modal-rag)
+    - [Multi-index RAG](#multi-index-rag)
+    - [Multi-Document](#multi-document)
+    - [FLARE](#flare)
+    - [Chain-of-Verification](#chain-of-verification) 
+  -  [Automated prompt optimization](#automated-prompt-optimization)
+  - [Context](#context)
+    - [Long context RAG](#long-context-rag)
+    - [Knowledge and Knowledge Graphs](#knowledge-and-knowledge-graphs)
+- [Generation](#generation)
+  - [Hallucination](#hallucination)
+  - [Guardrails](#guardrails)
+- [Evaluation](#evaluation)
+- [Performance and cost](#performance-and-cost)
+- [Privacy](#privacy)
+- [Security](#security)
+  - [Overloading context](#overloading-context)
+  - [Injections](#security)
 - [Applications of RAG](#applications-of-rag)
   - [Chatbots](#chatbots) 
 - [Tools](#tools)
@@ -47,14 +45,17 @@
 - [Running RAGs in production](#running-rags-in-production)
 - [Vectors corner](#vectors-corner)
 
-## Topics
-
-### General
+## General
 
 - [Retrieval Augmented Generation — Intuitively and Exhaustively Explained](https://towardsdatascience.com/retrieval-augmented-generation-intuitively-and-exhaustively-explain-6a39d6fe6fc9)
 - [GraphRAG - Microsoft Research Blog Post](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 
-#### Patterns
+### Disadvantages of RAG
+
+- [Disadvantages of RAG](https://medium.com/@kelvin.lu.au/disadvantages-of-rag-5024692f2c53)
+
+
+### Patterns
 
 - [Generative AI Lifecycle Patterns](https://dr-arsanjani.medium.com/the-generative-ai-lifecycle-1b0c7d9463ec)
 - [Why do RAG pipelines fail? Advanced RAG Patterns — Part1
@@ -64,90 +65,91 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 - [AI Engineer Summit - Building Blocks for LLM Systems & Products](https://eugeneyan.com/speaking/ai-eng-summit/)
 - [Technical Considerations for Complex RAG](https://medium.com/enterprise-rag/a-first-intro-to-complex-rag-retrieval-augmented-generation-a8624d70090f)
 
-### Dialogue Routing
+## Dialogue Routing
 
 - [Routing in RAG-Driven Applications](https://towardsdatascience.com/routing-in-rag-driven-applications-a685460a7220)
 
-### LLM Models
+## LLM Models
 
-#### Finetuning and Pretraining
+### Finetuning and Pretraining
 
 - [Fine-Tuning Llama 2.0 with Single GPU Magic](https://ai.plainenglish.io/fine-tuning-llama2-0-with-qloras-single-gpu-magic-1b6a6679d436)
 - [Practitioners guide to fine-tune LLMs for domain-specific use case](https://cismography.medium.com/practitioners-guide-to-fine-tune-llms-for-domain-specific-use-case-part-1-4561714d874f)
 - [Are You Pre-training your RAG Models on Your Raw Text?](https://medium.com/thirdai-blog/are-you-pre-training-your-rag-models-on-your-raw-text-40f832d87703)
 - [Combine Multiple LoRA Adapters for Llama 2](https://towardsdatascience.com/combine-multiple-lora-adapters-for-llama-2-ea0bef9025cf)
+- [RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application?](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7)
 
 
-### Retrieval
 
-#### Vector Retrieval
+## Retrieval
+
+### Vector Retrieval
 
 - [Boosting RAG: Picking the Best Embedding & Reranker models](https://blog.llamaindex.ai/boosting-rag-picking-the-best-embedding-reranker-models-42d079022e83)
 
-##### Chunking
+#### Chunking
 
 - [Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/)
 - [Evaluating the Ideal Chunk Size for a RAG System using LlamaIndex](https://blog.llamaindex.ai/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5)
 - [How to Chunk Text Data — A Comparative Analysis](https://towardsdatascience.com/how-to-chunk-text-data-a-comparative-analysis-3858c4a0997a)
 
-##### Embeddings
+#### Embeddings
 
-##### Vector Search
+#### Vector Search
 
 - [Awesome Search](https://github.com/frutik/awesome-search)
 - [Advanced RAG Retrieval Strategies: Sentence Window Retrieval](https://generativeai.pub/advanced-rag-retrieval-strategies-sentence-window-retrieval-b6964b6e56f7)
 
-#### Not Vector Retrieval
+### Not Vector Retrieval
 
 - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
 - [Improving RAG (Retrieval Augmented Generation) Answer Quality with Re-ranker](https://medium.com/towards-generative-ai/improving-rag-retrieval-augmented-generation-answer-quality-with-re-ranker-55a19931325)
 - [From Search to Synthesis: Enhancing RAG with BM25 and Reciprocal Rank Fusion](https://medium.com/@kachari.bikram42/from-search-to-synthesis-enhancing-rag-with-bm25-and-reciprocal-rank-fusion-872d21dc4ca7)
 
-  
-### Prompts
+## Prompts
 
 - [Emerging RAG & Prompt Engineering Architectures for LLMs](https://cobusgreyling.medium.com/updated-emerging-rag-prompt-engineering-architectures-for-llms-17ee62e5cbd9)
 - [How to Cut RAG Costs by 80% Using Prompt Compression](https://towardsdatascience.com/how-to-cut-rag-costs-by-80-using-prompt-compression-877a07c6bedb)
 
-#### Prompting strategies
+### Prompting strategies
 
-#### Multi-Modal RAG
+### Multi-Modal RAG
 
 - [Multi-Modal RAG](https://blog.llamaindex.ai/multi-modal-rag-621de7525fea)
 
-#### Multi-index RAG
+### Multi-index RAG
 
 - [Having all of your data stored in one collection isn't always the best for RAG apps](https://twitter.com/ecardenas300/status/1724829560041038072)
 
-#### Multi-Document
+### Multi-Document
 
 - [Advanced RAG — Multi-Documents Agent with LlamaIndex](https://blog.gopenai.com/advanced-rag-multi-documents-agent-with-llamaindex-43b604f84909)
 
-#### FLARE
+### FLARE
 
 - [Better RAG with Active Retrieval Augmented Generation FLARE](https://blog.lancedb.com/better-rag-with-active-retrieval-augmented-generation-flare-3b66646e2a9f)
 
 
-##### Chain-of-Verification
+#### Chain-of-Verification
 
 - [in-Of-Verification Reduces Hallucination in LLMs](https://cobusgreyling.medium.com/chain-of-verification-reduces-hallucination-in-llms-20af5ea67672)
 
-##### Chain-Of-Thought
+#### Chain-Of-Thought
 
 - [Chain-Of-Thought Prompting In LLMs](https://cobusgreyling.medium.com/chain-of-thought-prompting-in-llms-1077164edf97)
 
-#### Context
+### Context
 
 - [The Needle In a Haystack Test](https://towardsdatascience.com/the-needle-in-a-haystack-test-a94974c1ad38)
 - [Conversational Memory for LLMs with Langchain](https://www.pinecone.io/learn/series/langchain/langchain-conversational-memory/)
 
-##### Long context RAG
+#### Long context RAG
 
 - [The next generation of RAG: Long-Context RAG](https://twitter.com/ecardenas300/status/1724129722492142048)
 - [NVIDIA Research: RAG with Long Context LLMs](https://blog.llamaindex.ai/nvidia-research-rag-with-long-context-llms-7d94d40090c4)
 
 
-##### Knowledge and Knowledge Graphs
+#### Knowledge and Knowledge Graphs
 
 - [Graph RAG: Unleashing the Power of Knowledge Graphs with LLM](https://medium.com/@nebulagraph/graph-rag-the-new-llm-stack-with-knowledge-graphs-e1e902c504ed)
 - [Embeddings + Knowledge Graphs: The Ultimate Tools for RAG Systems](https://towardsdatascience.com/embeddings-knowledge-graphs-the-ultimate-tools-for-rag-systems-cbbcca29f0fd)
@@ -158,7 +160,7 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 - [Awesome Knowledge Graphs](https://github.com/frutik/awesome-knowledge-graphs)
 - [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)
   
-#### Automated prompt optimization
+### Automated prompt optimization
 
 ## Generation
 
@@ -177,7 +179,6 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 - [RAG Evaluation](https://cobusgreyling.medium.com/rag-evaluation-9813a931b3d4)
 - [Evaluating RAG: A journey through metrics](https://www.elastic.co/search-labs/blog/articles/evaluating-rag-metrics)
 
-
 ### Performance and cost
 
 - [Secrets to Optimizing RAG LLM Apps for Better Performance, Accuracy and Lower Costs!](https://medium.com/madhukarkumar/secrets-to-optimizing-rag-llm-apps-for-better-accuracy-performance-and-lower-cost-da1014127c0a)
@@ -190,41 +191,6 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 ## Security
 
 - [Hijacking Chatbots: Dangerous Methods Manipulating GPTs](https://medium.com/@jankammerath/hijacking-chatbots-dangerous-methods-manipulating-gpts-52342f4f88b8)
-
-## Series
-
-### Heiko Hotz
-
-- [RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application?](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7)
-
-### Kelvin Lu
-
-- [Compare PDF Question Answering Systems Build with OpenAI and Google VertexAI](https://medium.com/@kelvin.lu.au/compare-pdf-question-answering-with-openai-and-google-vertexai-46638d62327b)
-- [What We Need to Know Before Adopting a Vector Database](https://medium.com/@kelvin.lu.au/what-we-need-to-know-before-adopting-a-vector-database-85e137570fbb)
-- [Disadvantages of RAG](https://medium.com/@kelvin.lu.au/disadvantages-of-rag-5024692f2c53)
-
-### Wenqi Glantz
-
-#### Building
-
-- [Building Production-Ready LLM Apps with LlamaIndex: Document Metadata for Higher Accuracy Retrieval](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-document-metadata-for-higher-accuracy-retrieval-a8ceca641fb5)
-- [Building Production-Ready LLM Apps With LlamaIndex: Recursive Document Agents for Dynamic Retrieval](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-recursive-document-agents-for-dynamic-retrieval-1f4b25287918)
-
-
-#### Evaluation
-
-- [Exploring End-to-End Evaluation of RAG Pipelines](https://betterprogramming.pub/exploring-end-to-end-evaluation-of-rag-pipelines-e4c03221429)
-- [Evaluation Driven Development, the Swiss Army Knife for RAG Pipelines](https://levelup.gitconnected.com/evaluation-driven-development-the-swiss-army-knife-for-rag-pipelines-dba24218d47e)
-
-#### Privacy
-
-- [Masking PII Data in RAG Pipeline](https://betterprogramming.pub/masking-pii-data-in-rag-pipeline-326d2d330336)
-
-### Ravi Theja
-
-#### Evaluation
-
-- [Evaluating the Ideal Chunk Size for a RAG System using LlamaIndex](https://blog.llamaindex.ai/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5)
 
 ## Applications of RAG
 
@@ -244,7 +210,6 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoML tool for RAG. Automatically optimize RAG pipeline with single YAML file.
 
-
 ### AutoGPT
 
 ### Langchain
@@ -256,7 +221,6 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 - [LlamaIndex](https://github.com/run-llama/llama_index)
 
-
 ## Vendor-specific examples
 
 - [RAG Pipeline with Mistral 7B Instruct Model in Colab: A Step-by-Step Guide
@@ -266,7 +230,6 @@ Qendel AI GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruc
 ### Elastcisearch + OpenAI
 
 - [ChatGPT and Elasticsearch: OpenAI meets private data](https://www.elastic.co/search-labs/blog/chatgpt-elasticsearch-openai-meets-private-data)
-
 
 ### OpenAI and ChatGPT
 
@@ -289,3 +252,32 @@ Qendel AI GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruc
 - [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](https://huggingface.co/blog/embedding-quantization)
 - [Cohere int8 & binary Embeddings - Scale Your Vector Database to Large Datasets
 Image of Nils Reimers](https://cohere.com/blog/int8-binary-embeddings)
+
+## 22222
+
+#### Evaluation
+
+- [Evaluating the Ideal Chunk Size for a RAG System using LlamaIndex](https://blog.llamaindex.ai/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5)
+
+#### Building
+
+- [Building Production-Ready LLM Apps with LlamaIndex: Document Metadata for Higher Accuracy Retrieval](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-document-metadata-for-higher-accuracy-retrieval-a8ceca641fb5)
+- [Building Production-Ready LLM Apps With LlamaIndex: Recursive Document Agents for Dynamic Retrieval](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-recursive-document-agents-for-dynamic-retrieval-1f4b25287918)
+
+
+#### Evaluation
+
+- [Exploring End-to-End Evaluation of RAG Pipelines](https://betterprogramming.pub/exploring-end-to-end-evaluation-of-rag-pipelines-e4c03221429)
+- [Evaluation Driven Development, the Swiss Army Knife for RAG Pipelines](https://levelup.gitconnected.com/evaluation-driven-development-the-swiss-army-knife-for-rag-pipelines-dba24218d47e)
+
+#### Privacy
+
+- [Masking PII Data in RAG Pipeline](https://betterprogramming.pub/masking-pii-data-in-rag-pipeline-326d2d330336)
+
+### Kelvin Lu
+
+- [Compare PDF Question Answering Systems Build with OpenAI and Google VertexAI](https://medium.com/@kelvin.lu.au/compare-pdf-question-answering-with-openai-and-google-vertexai-46638d62327b)
+- [What We Need to Know Before Adopting a Vector Database](https://medium.com/@kelvin.lu.au/what-we-need-to-know-before-adopting-a-vector-database-85e137570fbb)
+
+
+
