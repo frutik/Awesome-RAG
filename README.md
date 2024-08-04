@@ -225,6 +225,8 @@ Qendel AI GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruc
 
 ### Elastcisearch + OpenAI
 
+- [ChatGPT and Elasticsearch: OpenAI meets private data](https://www.elastic.co/search-labs/blog/chatgpt-elasticsearch-openai-meets-private-data)
+
 
 ### Vespa
 
