@@ -9,9 +9,9 @@
   - [LLM Models](#llm-models)
     - [Finetuning and Pretraining](#finetuning-and-retraining)
   - [Retrieval](#retrieval)
-    -  Vector retrieval
+    -  [Vector retrieval](#vector-retrieval)
       - [Chunking](#chunking)
-      - Embeddings
+      - [Embeddings](#embeddings)
       - [Search](#search)
   - [Prompts](#prompts)
     - [Prompting strategies](#prompting-strategies)
