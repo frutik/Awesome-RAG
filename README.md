@@ -234,6 +234,8 @@ Qendel AI GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruc
 
 #### Tools and fucntions
 
+- [Unlocking the Power of the OpenAI API: Master Function-Calling with Practical Examples](https://medium.com/@apollovro/unlocking-the-power-of-the-openai-api-master-function-calling-with-practical-examples-f8b9ab2fceec)
+
 ### Vespa
 
 - [Hands-On RAG guide for personal data with Vespa and LLamaIndex](https://blog.vespa.ai/scaling-personal-ai-assistants-with-streaming-mode/)
