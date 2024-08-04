@@ -33,7 +33,7 @@
 - [Sandbox](#sandbox)
 - [Tools](#tools)
 - [Vendor-specific examples](#vendor-specific-examples)
-  - [Elastcisearch + OpenAI](#elastcisearch-openai)
+  - [Elastcisearch + OpenAI](#elastcisearch--openai)
   - [Vespa](#vespa)
   - [Qdrant](#qdrant)
 
