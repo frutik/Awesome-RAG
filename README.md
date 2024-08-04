@@ -219,6 +219,8 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 ### DSPy
 
+- [DSPy — Does It Live Up To The Hype?](https://medium.com/emalpha/dspy-does-it-live-up-to-the-hype-6e56c2c6e7a0)
+
 ### AutoRAG
 
 - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoML tool for RAG. Automatically optimize RAG pipeline with single YAML file.
