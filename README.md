@@ -35,7 +35,7 @@
     - [Overloading context](#overloading-context)
     - [Injections](#security)
 - [Series](#series)
-- [Applications](#applications)
+- [Applications of RAG](#applications-of-rag)
   - [Chatbots](#chatbots) 
 - [Tools](#tools)
 - [Vendor-specific examples](#vendor-specific-examples)
@@ -225,7 +225,7 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 - [Evaluating the Ideal Chunk Size for a RAG System using LlamaIndex](https://blog.llamaindex.ai/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5)
 
-## Applications
+## Applications of RAG
 
 ### Chatbots
 
