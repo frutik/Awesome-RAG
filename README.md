@@ -32,7 +32,8 @@
     - [Overloading context](#overloading-context)
     - [Injections](#security)
 - [Series](#series)
-- [Sandbox](#sandbox)
+- [Applications](#applications)
+  - [Chatbots](#chatbots) 
 - [Tools](#tools)
 - [Vendor-specific examples](#vendor-specific-examples)
   - [Elastcisearch + OpenAI](#elastcisearch--openai)
@@ -210,6 +211,10 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 #### Evaluation
 
 - [Evaluating the Ideal Chunk Size for a RAG System using LlamaIndex](https://blog.llamaindex.ai/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5)
+
+## Applications
+
+### Chatbots
 
 ## Tools
 
