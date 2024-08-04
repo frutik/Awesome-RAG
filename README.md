@@ -7,7 +7,7 @@
     - [Patterns](#patterns)
   - [Dialogue Routing](#dialogue-routing)
   - [LLM Models](#llm-models)
-    - [Finetuning and Pretraining](#finetuning-and-retraining)
+    - [Finetuning and Pretraining](#finetuning-and-pretraining)
   - [Retrieval](#retrieval)
     -  [Vector retrieval](#vector-retrieval)
       - [Chunking](#chunking)
