@@ -55,7 +55,7 @@
 - [Disadvantages of RAG](https://medium.com/@kelvin.lu.au/disadvantages-of-rag-5024692f2c53)
 
 
-### Patterns
+### RAG Patterns
 
 - [Generative AI Lifecycle Patterns](https://dr-arsanjani.medium.com/the-generative-ai-lifecycle-1b0c7d9463ec)
 - [Why do RAG pipelines fail? Advanced RAG Patterns — Part1
