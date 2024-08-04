@@ -44,6 +44,7 @@
     - [Tools and fucntions](#tools-and-fucntions)
   - [Vespa](#vespa)
   - [Qdrant](#qdrant)
+- [Running RAGs in production](#running-rags-in-production)
 - [Vectors corner](#vectors-corner)
 
 ## Topics
@@ -276,6 +277,8 @@ Qendel AI GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruc
 - [Hands-On RAG guide for personal data with Vespa and LLamaIndex](https://blog.vespa.ai/scaling-personal-ai-assistants-with-streaming-mode/)
 
 ### Qdrant
+
+## Running RAGs in production
 
 ## Vectors corner
 
