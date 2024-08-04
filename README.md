@@ -106,28 +106,28 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 
 #### Prompting strategies
 
-### Multi-Modal RAG
+##### Multi-Modal RAG
 
 - [Multi-Modal RAG](https://blog.llamaindex.ai/multi-modal-rag-621de7525fea)
 
-### Multi-index RAG
+##### Multi-index RAG
 
 - [Having all of your data stored in one collection isn't always the best for RAG apps](https://twitter.com/ecardenas300/status/1724829560041038072)
 
-### Multi-Document
+##### Multi-Document
 
 - [Advanced RAG — Multi-Documents Agent with LlamaIndex](https://blog.gopenai.com/advanced-rag-multi-documents-agent-with-llamaindex-43b604f84909)
 
-### FLARE
+##### FLARE
 
 - [Better RAG with Active Retrieval Augmented Generation FLARE](https://blog.lancedb.com/better-rag-with-active-retrieval-augmented-generation-flare-3b66646e2a9f)
 
 
-#### Chain-of-Verification
+##### Chain-of-Verification
 
 - [in-Of-Verification Reduces Hallucination in LLMs](https://cobusgreyling.medium.com/chain-of-verification-reduces-hallucination-in-llms-20af5ea67672)
 
-#### Chain-Of-Thought
+##### Chain-Of-Thought
 
 - [Chain-Of-Thought Prompting In LLMs](https://cobusgreyling.medium.com/chain-of-thought-prompting-in-llms-1077164edf97)
 
