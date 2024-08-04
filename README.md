@@ -175,7 +175,7 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 - [Safeguarding LLMs with Guardrails](https://towardsdatascience.com/safeguarding-llms-with-guardrails-4f5d9f57cff2)
 - [NeMo Guardrails: The Missing Manual](https://www.pinecone.io/learn/nemo-guardrails-intro/)
 
-## Evaluation
+## Evaluation of RAG pipelines
 
 - [RAG Evaluation](https://cobusgreyling.medium.com/rag-evaluation-9813a931b3d4)
 - [Evaluating RAG: A journey through metrics](https://www.elastic.co/search-labs/blog/articles/evaluating-rag-metrics)
