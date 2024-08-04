@@ -34,8 +34,8 @@
 - [Tools](#tools)
 - [Vendor-specific examples](#vendor-specific-examples)
   - [Elastcisearch + OpenAI](#elastcisearch-openai)
-  - Vespa
-  - Qdrant
+  - [Vespa](#vespa)
+  - [Qdrant](#qdrant)
 
 
 ## Topics
@@ -221,7 +221,16 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 - [RAG Pipeline with Mistral 7B Instruct Model in Colab: A Step-by-Step Guide
 Qendel AI GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruct-model-a-step-by-step-guide-138df378a0c2)
+
+
+### Elastcisearch + OpenAI
+
+
+### Vespa
+
 - [Hands-On RAG guide for personal data with Vespa and LLamaIndex](https://blog.vespa.ai/scaling-personal-ai-assistants-with-streaming-mode/)
+
+### Qdrant
 
 ## Sandbox
 
