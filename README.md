@@ -249,6 +249,8 @@ Qendel AI GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruc
 
 - [Similarity Search, Part 2: Product Quantization](https://towardsdatascience.com/similarity-search-product-quantization-b2a1a6397701)
 - [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](https://huggingface.co/blog/embedding-quantization)
+- [Cohere int8 & binary Embeddings - Scale Your Vector Database to Large Datasets
+Image of Nils Reimers](https://cohere.com/blog/int8-binary-embeddings)
 
 
 ## Sandbox
