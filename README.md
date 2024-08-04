@@ -12,7 +12,7 @@
     -  [Vector retrieval](#vector-retrieval)
        - [Chunking](#chunking)
        - [Embeddings](#embeddings)
-       - [Search](#search)
+       - [Vector Search](#vector-search)
     - [Not Vector retrieval](#not-vector-retrieval)
   - [Prompts](#prompts)
     - [Prompting strategies](#prompting-strategies)
@@ -91,7 +91,7 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 
 ###### Embeddings
 
-###### Search
+###### Vector Search
 
 - [Awesome Search](https://github.com/frutik/awesome-search)
 - [Advanced RAG Retrieval Strategies: Sentence Window Retrieval](https://generativeai.pub/advanced-rag-retrieval-strategies-sentence-window-retrieval-b6964b6e56f7)
