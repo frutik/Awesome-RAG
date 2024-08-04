@@ -65,19 +65,9 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 - [AI Engineer Summit - Building Blocks for LLM Systems & Products](https://eugeneyan.com/speaking/ai-eng-summit/)
 - [Technical Considerations for Complex RAG](https://medium.com/enterprise-rag/a-first-intro-to-complex-rag-retrieval-augmented-generation-a8624d70090f)
 
-## Dialogue Routing
+### Dialogue Routing
 
 - [Routing in RAG-Driven Applications](https://towardsdatascience.com/routing-in-rag-driven-applications-a685460a7220)
-
-## LLM Models
-
-### Finetuning and Pretraining
-
-- [Fine-Tuning Llama 2.0 with Single GPU Magic](https://ai.plainenglish.io/fine-tuning-llama2-0-with-qloras-single-gpu-magic-1b6a6679d436)
-- [Practitioners guide to fine-tune LLMs for domain-specific use case](https://cismography.medium.com/practitioners-guide-to-fine-tune-llms-for-domain-specific-use-case-part-1-4561714d874f)
-- [Are You Pre-training your RAG Models on Your Raw Text?](https://medium.com/thirdai-blog/are-you-pre-training-your-rag-models-on-your-raw-text-40f832d87703)
-- [Combine Multiple LoRA Adapters for Llama 2](https://towardsdatascience.com/combine-multiple-lora-adapters-for-llama-2-ea0bef9025cf)
-- [RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application?](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7)
 
 
 ## Retrieval
@@ -151,7 +141,6 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 - [The next generation of RAG: Long-Context RAG](https://twitter.com/ecardenas300/status/1724129722492142048)
 - [NVIDIA Research: RAG with Long Context LLMs](https://blog.llamaindex.ai/nvidia-research-rag-with-long-context-llms-7d94d40090c4)
 
-
 #### Knowledge and Knowledge Graphs
 
 - [Graph RAG: Unleashing the Power of Knowledge Graphs with LLM](https://medium.com/@nebulagraph/graph-rag-the-new-llm-stack-with-knowledge-graphs-e1e902c504ed)
@@ -174,6 +163,16 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 - [Safeguarding LLMs with Guardrails](https://towardsdatascience.com/safeguarding-llms-with-guardrails-4f5d9f57cff2)
 - [NeMo Guardrails: The Missing Manual](https://www.pinecone.io/learn/nemo-guardrails-intro/)
+
+## LLM Models
+
+### Finetuning and Pretraining
+
+- [Fine-Tuning Llama 2.0 with Single GPU Magic](https://ai.plainenglish.io/fine-tuning-llama2-0-with-qloras-single-gpu-magic-1b6a6679d436)
+- [Practitioners guide to fine-tune LLMs for domain-specific use case](https://cismography.medium.com/practitioners-guide-to-fine-tune-llms-for-domain-specific-use-case-part-1-4561714d874f)
+- [Are You Pre-training your RAG Models on Your Raw Text?](https://medium.com/thirdai-blog/are-you-pre-training-your-rag-models-on-your-raw-text-40f832d87703)
+- [Combine Multiple LoRA Adapters for Llama 2](https://towardsdatascience.com/combine-multiple-lora-adapters-for-llama-2-ea0bef9025cf)
+- [RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application?](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7)
 
 ## Evaluation of RAG pipelines
 
