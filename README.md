@@ -153,6 +153,8 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 - [Awesome Knowledge Graphs](https://github.com/frutik/awesome-knowledge-graphs)
 - [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)
   
+#### Automated prompt optimization
+
 ## Generation
 
 ### Hallucination
