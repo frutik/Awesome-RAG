@@ -244,6 +244,9 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoML tool for RAG. Automatically optimize RAG pipeline with single YAML file.
 
+
+### AutoGPT
+
 ### Langchain
 
 - [Langchain](https://github.com/langchain-ai/langchain)
