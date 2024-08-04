@@ -5,7 +5,7 @@
 - [Topics](#topics)
   - [General](#general)
     - [Patterns](#patterns)
-  - [Routing](#routing)
+  - [Dialogue Routing](#dialogue-routing)
   - [LLM Models](#llm-models)
     - [Finetuning and Pretraining](#finetuning-and-retraining)
   - [Retrieval](#retrieval)
@@ -59,7 +59,7 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 - [AI Engineer Summit - Building Blocks for LLM Systems & Products](https://eugeneyan.com/speaking/ai-eng-summit/)
 - [Technical Considerations for Complex RAG](https://medium.com/enterprise-rag/a-first-intro-to-complex-rag-retrieval-augmented-generation-a8624d70090f)
 
-### Routing
+### Dialogue Routing
 
 - [Routing in RAG-Driven Applications](https://towardsdatascience.com/routing-in-rag-driven-applications-a685460a7220)
 
