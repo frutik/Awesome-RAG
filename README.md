@@ -235,6 +235,7 @@ Qendel AI GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruc
 #### Tools and fucntions
 
 - [Unlocking the Power of the OpenAI API: Master Function-Calling with Practical Examples](https://medium.com/@apollovro/unlocking-the-power-of-the-openai-api-master-function-calling-with-practical-examples-f8b9ab2fceec)
+- [penAI/Chat-GPT Function Calling : for Enhanced AI Interactions](https://levelup.gitconnected.com/openai-chat-gpt-function-calling-for-enhanced-ai-interactions-338be974027)
 
 ### Vespa
 
