@@ -213,13 +213,25 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 ## Tools
 
-- [Langchain is NOT for production use. Here is why ..](https://medium.com/@aldendorosario/langchain-is-not-for-production-use-here-is-why-9f1eca6cce80)
 - [Three Open-Source RAG Tools You Need to Know About](https://medium.com/programmers-journey/three-open-source-rag-tools-you-need-to-know-about-331c3f28ab22)
-- [LlamaIndex](https://github.com/run-llama/llama_index)
-- [Langchain](https://github.com/langchain-ai/langchain)
 - [HayStack](https://github.com/deepset-ai/haystack)
 - [RAGAS](https://github.com/explodinggradients/ragas)
+
+### DSPy
+
+### AutoRAG
+
 - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoML tool for RAG. Automatically optimize RAG pipeline with single YAML file.
+
+### Langchain
+
+- [Langchain](https://github.com/langchain-ai/langchain)
+- [Langchain is NOT for production use. Here is why ..](https://medium.com/@aldendorosario/langchain-is-not-for-production-use-here-is-why-9f1eca6cce80)
+
+### LlamaIndex
+
+- [LlamaIndex](https://github.com/run-llama/llama_index)
+
 
 ## Vendor-specific examples
 
@@ -251,13 +263,3 @@ Qendel AI GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruc
 - [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](https://huggingface.co/blog/embedding-quantization)
 - [Cohere int8 & binary Embeddings - Scale Your Vector Database to Large Datasets
 Image of Nils Reimers](https://cohere.com/blog/int8-binary-embeddings)
-
-
-## Sandbox
-
-- [Innovations In Retrieval Augmented Generation](https://medium.com/emalpha/innovations-in-retrieval-augmented-generation-8e6e70f95629)  
-- [Automating Hyperparameter Tuning with LlamaIndex. Exploring ParamTuner for RAG pipelines](https://levelup.gitconnected.com/automating-hyperparameter-tuning-with-llamaindex-72fdd68e3b90)
-- [A Guide on 12 Tuning Strategies for Production-Ready RAG Applications](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439)
-- [Structured Knowledge Extraction: from DbPedia Queries to Llama Index Knowledge Graphs](https://python.plainenglish.io/structured-knowledge-extraction-from-dbpedia-queries-to-llama-index-knowledge-graphs-47899c38e767)
-- [The Power of Retrieval Augmented Generation: A Comparison between Base and RAG LLMs with Llama2](https://towardsdatascience.com/the-power-of-retrieval-augmented-generation-a-comparison-between-base-and-rag-llms-with-llama2-368865762c0d)
-- [How to Build Long-term Corporate Memory for Your Organisation Using ChatGPT](https://ai.plainenglish.io/how-to-build-long-term-corproate-memory-for-your-organisation-using-chatgpt-d213804d4176)
