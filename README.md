@@ -34,6 +34,8 @@
 - [Tools](#tools)
 - [Vendor-specific examples](#vendor-specific-examples)
   - [Elastcisearch + OpenAI](#elastcisearch--openai)
+  - [OpenAI and ChatGPT](#openai-and-chatgpt)
+    - [Tools and fucntions](#tools-and-fucntions)
   - [Vespa](#vespa)
   - [Qdrant](#qdrant)
 
@@ -227,6 +229,10 @@ Qendel AI GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruc
 
 - [ChatGPT and Elasticsearch: OpenAI meets private data](https://www.elastic.co/search-labs/blog/chatgpt-elasticsearch-openai-meets-private-data)
 
+
+### OpenAI and ChatGPT
+
+#### Tools and fucntions
 
 ### Vespa
 
