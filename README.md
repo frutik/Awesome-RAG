@@ -102,6 +102,7 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 
 ### Not Vector Retrieval
 
+- [Vector Search Is Not All You Need](https://towardsdatascience.com/vector-search-is-not-all-you-need-ecd0f16ad65e)
 - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
 - [Improving RAG (Retrieval Augmented Generation) Answer Quality with Re-ranker](https://medium.com/towards-generative-ai/improving-rag-retrieval-augmented-generation-answer-quality-with-re-ranker-55a19931325)
 - [From Search to Synthesis: Enhancing RAG with BM25 and Reciprocal Rank Fusion](https://medium.com/@kachari.bikram42/from-search-to-synthesis-enhancing-rag-with-bm25-and-reciprocal-rank-fusion-872d21dc4ca7)
@@ -174,7 +175,7 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 - [Safeguarding LLMs with Guardrails](https://towardsdatascience.com/safeguarding-llms-with-guardrails-4f5d9f57cff2)
 - [NeMo Guardrails: The Missing Manual](https://www.pinecone.io/learn/nemo-guardrails-intro/)
 
-### Evaluation
+## Evaluation
 
 - [RAG Evaluation](https://cobusgreyling.medium.com/rag-evaluation-9813a931b3d4)
 - [Evaluating RAG: A journey through metrics](https://www.elastic.co/search-labs/blog/articles/evaluating-rag-metrics)
@@ -182,14 +183,9 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 - [Evaluation Driven Development, the Swiss Army Knife for RAG Pipelines](https://levelup.gitconnected.com/evaluation-driven-development-the-swiss-army-knife-for-rag-pipelines-dba24218d47e)
 - [Evaluating the Ideal Chunk Size for a RAG System using LlamaIndex](https://blog.llamaindex.ai/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5)
 
-### Performance and cost
+## Performance and cost
 
 - [Secrets to Optimizing RAG LLM Apps for Better Performance, Accuracy and Lower Costs!](https://medium.com/madhukarkumar/secrets-to-optimizing-rag-llm-apps-for-better-accuracy-performance-and-lower-cost-da1014127c0a)
-
-### Various
-
-- [Vector Search Is Not All You Need](https://towardsdatascience.com/vector-search-is-not-all-you-need-ecd0f16ad65e)
-- [Improve RAG Pipelines With These 3 Indexing Methods](https://levelup.gitconnected.com/improve-rag-pipelines-with-these-3-indexing-methods-83317e972676)
 
 ## Privacy
 
@@ -266,3 +262,8 @@ Qendel AI GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruc
 - [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](https://huggingface.co/blog/embedding-quantization)
 - [Cohere int8 & binary Embeddings - Scale Your Vector Database to Large Datasets
 Image of Nils Reimers](https://cohere.com/blog/int8-binary-embeddings)
+
+## Various
+
+- [Improve RAG Pipelines With These 3 Indexing Methods](https://levelup.gitconnected.com/improve-rag-pipelines-with-these-3-indexing-methods-83317e972676)
+
