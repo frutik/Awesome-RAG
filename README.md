@@ -1,6 +1,6 @@
 # Awesome-RAG
 
-The section outline is in complete draft form. Everything is in motion (in this document and in my head).
+> The sections outline is in complete draft form. Everything is in motion (in this document and in my head).
 
 - [Topics](#topics)
   - [General](#general)
