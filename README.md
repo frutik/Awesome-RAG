@@ -266,6 +266,6 @@ Image of Nils Reimers](https://cohere.com/blog/int8-binary-embeddings)
 
 - [Improve RAG Pipelines With These 3 Indexing Methods](https://levelup.gitconnected.com/improve-rag-pipelines-with-these-3-indexing-methods-83317e972676)
 
-## Agents
+## LLM Agents
 
 
