@@ -12,6 +12,7 @@
      - [Chunking](#chunking)
      - [Embeddings](#embeddings)
      - [Vector Search](#vector-search)
+     - [RAG Fusion](#rag-fusion)
   - [Not Vector retrieval](#not-vector-retrieval)
 - [Prompts](#prompts)
   - [Prompting strategies](#prompting-strategies)
@@ -89,6 +90,11 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 
 - [Awesome Search](https://github.com/frutik/awesome-search)
 - [Advanced RAG Retrieval Strategies: Sentence Window Retrieval](https://generativeai.pub/advanced-rag-retrieval-strategies-sentence-window-retrieval-b6964b6e56f7)
+
+#### RAG Fusion
+
+- [Forget RAG, the Future is RAG-Fusion](https://towardsdatascience.com/forget-rag-the-future-is-rag-fusion-1147298d8ad1)
+- 
 
 ### Not Vector Retrieval
 
