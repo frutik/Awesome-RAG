@@ -3,6 +3,7 @@
 > The sections outline is in complete draft form. Everything is in motion (in this document and in my head).
 
 - [General](#general)
+  - [Disadvantages of RAG](#disadvantages-of-rag) 
   - [Patterns](#patterns)
 - [Dialogue Routing](#dialogue-routing)
 - [LLM Models](#llm-models)
