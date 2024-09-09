@@ -11,6 +11,8 @@
 - [Retrieval](#retrieval)
   -  [Vector retrieval](#vector-retrieval)
      - [Chunking](#chunking)
+       - [Positional chunking](#positional-chunking)
+       - [Semantic chunking](#semantic-chunking)
      - [Embeddings](#embeddings)
      - [Vector Search](#vector-search)
      - [RAG Fusion](#rag-fusion)
