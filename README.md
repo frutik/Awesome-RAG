@@ -213,6 +213,8 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 ### Chatbots
 
+- [Vedika API](https://vedika.io) - Domain-specific knowledge API for Vedic astrology RAG applications. Provides 108+ endpoints for birth charts, planetary positions, doshas, dashas, and AI-powered interpretations in 22 languages. Ideal knowledge source for astrology chatbots and RAG systems.
+
 ## Tools
 
 - [Three Open-Source RAG Tools You Need to Know About](https://medium.com/programmers-journey/three-open-source-rag-tools-you-need-to-know-about-331c3f28ab22)
