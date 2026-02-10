@@ -87,6 +87,7 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 - [Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/)
 - [Evaluating the Ideal Chunk Size for a RAG System using LlamaIndex](https://blog.llamaindex.ai/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5)
 - [How to Chunk Text Data — A Comparative Analysis](https://towardsdatascience.com/how-to-chunk-text-data-a-comparative-analysis-3858c4a0997a)
+- [RAGFlow Optimizer](https://github.com/stranger00135/ragflow-optimizer) - LLM-based tool that automatically finds optimal chunking parameters (chunk size, overlap, parser) for RAGFlow through automated evaluation.
 
 ##### Positional chunking
 
