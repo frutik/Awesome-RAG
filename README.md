@@ -223,6 +223,10 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 - [DSPy — Does It Live Up To The Hype?](https://medium.com/emalpha/dspy-does-it-live-up-to-the-hype-6e56c2c6e7a0)
 
+### Reporecall
+
+- [Reporecall](https://github.com/proofofwork-agency/reporecall) - Local codebase RAG for AI coding agents. Indexes code using Tree-sitter AST parsing (22 languages), builds call graphs, and provides hybrid keyword (FTS5) + vector search via MCP.
+
 ### AutoRAG
 
 - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoML tool for RAG. Automatically optimize RAG pipeline with single YAML file.
