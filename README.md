@@ -218,6 +218,7 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 - [Three Open-Source RAG Tools You Need to Know About](https://medium.com/programmers-journey/three-open-source-rag-tools-you-need-to-know-about-331c3f28ab22)
 - [HayStack](https://github.com/deepset-ai/haystack)
 - [RAGAS](https://github.com/explodinggradients/ragas)
+- [LongTracer](https://github.com/ENDEVSOLS/LongTracer) - RAG hallucination detection and multi-project tracing SDK. Verifies every claim against source documents using hybrid STS + NLI, works with LangChain, LlamaIndex, Haystack, and LangGraph in 3 lines.
 
 ### DSPy
 
