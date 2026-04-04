@@ -218,6 +218,7 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 - [Three Open-Source RAG Tools You Need to Know About](https://medium.com/programmers-journey/three-open-source-rag-tools-you-need-to-know-about-331c3f28ab22)
 - [HayStack](https://github.com/deepset-ai/haystack)
 - [RAGAS](https://github.com/explodinggradients/ragas)
+- [LongTrainer](https://github.com/ENDEVSOLS/Long-Trainer) - A production-ready RAG framework that turns your documents into intelligent, multi-tenant chatbots with built-in memory and streaming.
 
 ### DSPy
 
