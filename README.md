@@ -218,6 +218,7 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 - [Three Open-Source RAG Tools You Need to Know About](https://medium.com/programmers-journey/three-open-source-rag-tools-you-need-to-know-about-331c3f28ab22)
 - [HayStack](https://github.com/deepset-ai/haystack)
 - [RAGAS](https://github.com/explodinggradients/ragas)
+- [Dakera](https://github.com/dakera-ai/dakera-mcp) - Self-hosted MCP-native agent memory server. Grounds RAG pipelines with persistent, decay-weighted episodic memory via hybrid BM25+HNSW retrieval. 83 MCP tools, 87.8% LoCoMo benchmark, fully offline, multi-SDK (Python/JS/Rust/Go).
 
 ### DSPy
 
