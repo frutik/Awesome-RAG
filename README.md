@@ -229,6 +229,11 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 ### AutoGPT
 
+### Future AGI
+
+- [traceAI](https://github.com/future-agi/traceAI) - OpenTelemetry-native tracing framework for LLM and RAG applications. Auto-instruments LangChain, LlamaIndex, OpenAI, Anthropic, and more.
+- [ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM/RAG evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners.
+
 ### Langchain
 
 - [Langchain](https://github.com/langchain-ai/langchain)
