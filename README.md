@@ -229,6 +229,10 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 
 ### AutoGPT
 
+### Future AGI
+
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable platform unifying tracing, evals, simulations, datasets, gateway, and guardrails for RAG and agent apps.
+
 ### Langchain
 
 - [Langchain](https://github.com/langchain-ai/langchain)
