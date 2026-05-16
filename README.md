@@ -14,6 +14,7 @@
        - [Positional chunking](#positional-chunking)
        - [Semantic chunking](#semantic-chunking)
      - [Embeddings](#embeddings)
+       - [SIE (Superlinked Inference Engine)](https://github.com/superlinked/sie)
      - [Vector Search](#vector-search)
      - [RAG Fusion](#rag-fusion)
   - [Graph RAG](#graph-rag)
@@ -94,6 +95,7 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 
 
 #### Embeddings
+- [SIE (Superlinked Inference Engine)](https://github.com/superlinked/sie) - Open-source inference server for embeddings, reranking, and extraction.
 
 #### Vector Search
 
@@ -103,7 +105,6 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 #### RAG Fusion
 
 - [Forget RAG, the Future is RAG-Fusion](https://towardsdatascience.com/forget-rag-the-future-is-rag-fusion-1147298d8ad1)
-- 
 
 ### Not Vector Retrieval
 
