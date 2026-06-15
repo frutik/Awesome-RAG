@@ -111,6 +111,7 @@ Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patter
 - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
 - [Improving RAG (Retrieval Augmented Generation) Answer Quality with Re-ranker](https://medium.com/towards-generative-ai/improving-rag-retrieval-augmented-generation-answer-quality-with-re-ranker-55a19931325)
 - [From Search to Synthesis: Enhancing RAG with BM25 and Reciprocal Rank Fusion](https://medium.com/@kachari.bikram42/from-search-to-synthesis-enhancing-rag-with-bm25-and-reciprocal-rank-fusion-872d21dc4ca7)
+- [Superhighway — Web Search API for AI Agents and RAG](https://superhighway.walls.sh/guides/web-search-langchain): Live web retrieval without a vector DB — search, scrape, and synthesize the open web in one API call; integrates with LangChain, LlamaIndex, LangGraph, and all major agent frameworks.
 
 ## Generation
 
