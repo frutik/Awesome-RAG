@@ -1,5 +1,7 @@
 # Awesome-RAG
 
+This project was deprecated in favour of https://github.com/frutik/awesome-search
+
 > The sections outline is in complete draft form. Everything is in motion (in this document and in my head).
 
 - [General](#general)
